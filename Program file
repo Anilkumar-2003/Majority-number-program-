@@ -30,7 +30,7 @@ class GFG {
     public static void main(String[] args)
     {
  
-        int arr[] = { 1, 1, 2, 1, 3, 5, 1 };
+        int arr[] = { 2,4, 5, 5, 5, 5, 5};
         int n = arr.length;
  
        
